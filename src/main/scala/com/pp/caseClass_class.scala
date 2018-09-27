@@ -1,4 +1,7 @@
 package com.pp
+17paipai.cn
+smtp
+pass:testsetsetes
 
 import java.io.{ByteArrayOutputStream, ObjectOutputStream}
 
