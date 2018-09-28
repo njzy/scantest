@@ -1,5 +1,7 @@
 package com.pp
-
+17paipai.cn
+smtp_user:ffff
+smtp_pass:123456hhh
 /**
   * Created by Administrator on 2018/5/25.
   */
